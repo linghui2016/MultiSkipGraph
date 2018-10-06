@@ -3,9 +3,9 @@
 This is a simulator implemted for evaluating and demonstrating the MultiSkipGraph protocol and its extended version MultiSkipGraph*.
 
 ## Watch a demo
-- Click to see a demo of simulating a self-stabilizing overlay network with 8 nodes using the MultiSkipGraph protocol.
+- Click to see a demo of simulating a self-stabilizing overlay network with 9 nodes using the MultiSkipGraph protocol.
 [![multiskipgraph](https://img.youtube.com/vi/S8yd7fApSfk/0.jpg)](http://www.youtube.com/watch?v=S8yd7fApSfk)
-- Click to see a demo of simulating a self-stabilizing overlay network with 8 nodes using the MultiSkipGraph* protocol.
+- Click to see a demo of simulating a self-stabilizing overlay network with 9 nodes using the MultiSkipGraph* protocol.
 [![multiskipgraphstar](https://img.youtube.com/vi/keOdsxxjWwU/0.jpg)](http://www.youtube.com/watch?v=keOdsxxjWwU)
 ## How to run it?
 -  You can 
