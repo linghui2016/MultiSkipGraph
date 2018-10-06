@@ -1,0 +1,1 @@
+lib\mencoder.exe "mf://path//*.png" -mf fps=15:type=png -ovc lavc -lavcopts "vcodec=mpeg4:vqscale=2:vhq:v4mv:trell:autoaspect" -o movie.avi -nosound -vf scale
