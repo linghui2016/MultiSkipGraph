@@ -1,7 +1,6 @@
 # MultiSkipGraph - A Self-stabilizing Overlay Network that Maintains Monotonic Searchability
 
 This is a simulator implemted for evaluating and demonstrating the MultiSkipGraph protocol and its extended version MultiSkipGraph*.
-[Click here](https://github.com/linghui2016/MultiSkipGraph/blob/master/paper/multiSkipGraph_verbose.pdf) to get the verbose version of the paper submitted to IPDPS 2019. 
 
 ## Watch a demo
 - Click to see a demo of simulating a self-stabilizing overlay network with 8 nodes using the MultiSkipGraph protocol.
