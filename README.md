@@ -1,10 +1,16 @@
 # MultiSkipGraph - A Self-stabilizing Overlay Network that Maintains Monotonic Searchability
 
 This is a simulator implemted for evaluating and demonstrating the MultiSkipGraph protocol and its extended version MultiSkipGraph*.
+[Click here]() to get the verbose version of the paper. 
 
+## Watch a demo
+- Click to see a demo of simulating a self-stabilizing overlay network with 8 nodes using the MultiSkipGraph protocol.
+[![multiskipgraph](https://img.youtube.com/vi/S8yd7fApSfk/0.jpg)](http://www.youtube.com/watch?v=S8yd7fApSfk)
+- Click to see a demo of simulating a self-stabilizing overlay network with 8 nodes using the MultiSkipGraph* protocol.
+[![multiskipgraphstar](https://img.youtube.com/vi/keOdsxxjWwU/0.jpg)](http://www.youtube.com/watch?v=keOdsxxjWwU)
 ## How to use it?
 -  You can 
-    - run the executable jar multiSkipGraph.jar from the release page or 
+    - run the executable jar multiSkipGraph.jar from the [release page](https://github.com/linghui2016/MultiSkipGraph/releases/download/IPDPS/multiSkipGraph.jar) or 
     - or import this project as Java Project into Eclipse. Simo.java is the main class to start the program, run it 
 - You will see a window with two modes to be chosen:
   - Single-Test-Mode is for simulation with a fixed network size
