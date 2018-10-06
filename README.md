@@ -31,7 +31,7 @@ This is a simulator implemted for evaluating and demonstrating the MultiSkipGrap
       - an absoulte number (terminate when all searches are processed and the network is staiblized)
       - a relative number to network size (terminate when all searches are processed and the network is staiblized)
       - a batch size (terminate when the network is stabilized)
- - Click the ``Single-Test-Mode`` button and then ``simulate`` button to run a simulation by the default setting. 
+ - Click the ``Single-Test-Mode`` button and then ``Simulate`` button to run a simulation by the default setting. 
 ## Contact
 Please e-mail linghui.luo@upb.de if you have any questions.  
 
