@@ -7,7 +7,7 @@ This is a simulator implemted for evaluating and demonstrating the MultiSkipGrap
 [![multiskipgraph](https://img.youtube.com/vi/S8yd7fApSfk/0.jpg)](http://www.youtube.com/watch?v=S8yd7fApSfk)
 - Click to see a demo of simulating a self-stabilizing overlay network with 8 nodes using the MultiSkipGraph* protocol.
 [![multiskipgraphstar](https://img.youtube.com/vi/keOdsxxjWwU/0.jpg)](http://www.youtube.com/watch?v=keOdsxxjWwU)
-## How to use it?
+## How to run it?
 -  You can 
     - run the executable jar multiSkipGraph.jar from the [release page](https://github.com/linghui2016/MultiSkipGraph/releases/download/IPDPS/multiSkipGraph.jar) or 
     - or import this project as Java Project into Eclipse. Simo.java is the main class to start the program, run it 
