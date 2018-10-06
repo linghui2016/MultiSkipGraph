@@ -4,7 +4,7 @@ This is a simulator implemted for evaluating and demonstrating the MultiSkipGrap
 
 ## How to use it?
 -  You can 
-    - run the executable jar multiSkipGraph.jar from the release page or 
+    - run the executable jar multiSkipGraph.jar from the [release page](https://github.com/linghui2016/MultiSkipGraph/releases/download/IPDPS/multiSkipGraph.jar) or 
     - or import this project as Java Project into Eclipse. Simo.java is the main class to start the program, run it 
 - You will see a window with two modes to be chosen:
   - Single-Test-Mode is for simulation with a fixed network size
