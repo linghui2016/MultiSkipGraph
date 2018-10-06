@@ -32,4 +32,4 @@ This is a simulator implemted for evaluating and demonstrating the MultiSkipGrap
       - a relative number to network size (terminate when all searches are processed and the network is staiblized)
       - a batch size (terminate when the network is stabilized)
 
-Please e-mali linghui.luo@upb.de if you have any questions.  
+Please e-mail linghui.luo@upb.de if you have any questions.  
