@@ -1,6 +1,6 @@
-package MultiSkipGraph;
+package multiSkipGraph;
 
-import  Base.Task;
+import base.Task;
 
 /**
  * 

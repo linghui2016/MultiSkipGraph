@@ -1,8 +1,8 @@
-package Base;
+package base;
 
 import org.graphstream.algorithm.ConnectedComponents;
 
-import Graph.GraphGenerator;
+import graph.GraphGenerator;
 
 /**
  * The super class of all kinds of controllers.

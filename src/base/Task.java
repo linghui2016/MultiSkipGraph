@@ -1,4 +1,4 @@
-package Base;
+package base;
 
 /**
  * There are two kinds of task for a node: either the node handles a message or executes timeout.

@@ -1,4 +1,4 @@
-package MultiSkipGraph;
+package multiSkipGraph;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -9,8 +9,8 @@ import java.util.TimerTask;
 import java.util.TreeMap;
 import java.util.TreeSet;
 
-import Base.Channel;
-import Base.Pair;
+import base.Channel;
+import base.Pair;
 
 /**
  * 

@@ -1,4 +1,4 @@
-package MultiSkipGraph;
+package multiSkipGraph;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -25,13 +25,13 @@ import org.graphstream.stream.file.FileSinkImages.RendererType;
 import org.graphstream.stream.file.FileSinkImages.Resolution;
 import org.graphstream.stream.file.FileSinkImages.Resolutions;
 
-import Base.Controller;
-import Base.Direction;
-import Base.Protocol;
-import Base.Task.TaskType;
-import Graph.GeneratorNode;
-import Graph.GraphType;
-import Simo.ShowGraphFrame;
+import base.Controller;
+import base.Direction;
+import base.Protocol;
+import base.Task.TaskType;
+import graph.GeneratorNode;
+import graph.GraphType;
+import simo.ShowGraphFrame;
 
 /**
  * 

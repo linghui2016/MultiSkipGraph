@@ -1,10 +1,10 @@
-package MultiSkipGraph;
+package multiSkipGraph;
 
 import java.util.TreeMap;
 
-import Base.Action;
-import Base.Direction;
-import Base.Message;
+import base.Action;
+import base.Direction;
+import base.Message;
 
 /**
  * 

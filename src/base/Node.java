@@ -1,10 +1,10 @@
-package Base;
+package base;
 
 import java.util.concurrent.ConcurrentHashMap;
 
 import org.graphstream.graph.Graph;
 
-import MultiSkipGraph.MsController;
+import multiSkipGraph.MsController;
 
 /**
  * The super class of all kinds of nodes.

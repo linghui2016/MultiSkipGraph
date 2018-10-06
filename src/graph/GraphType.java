@@ -1,4 +1,4 @@
-package Graph;
+package graph;
 
 /**
  * It defines the constraint by generating a connected graph

@@ -1,11 +1,11 @@
-package Graph;
+package graph;
 
 import java.util.ArrayList;
 
 import org.graphstream.graph.Graph;
 
-import MultiSkipGraph.MsController;
-import MultiSkipGraph.MsNode;
+import multiSkipGraph.MsController;
+import multiSkipGraph.MsNode;
 
 /**
  * It is used to generate an undirected connected graph.

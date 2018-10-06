@@ -1,4 +1,4 @@
-package Graph;
+package graph;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -11,12 +11,12 @@ import org.graphstream.algorithm.generator.Generator;
 import org.graphstream.graph.Graph;
 import org.graphstream.graph.implementations.SingleGraph;
 
-import Base.Action;
-import Base.Direction;
-import MultiSkipGraph.MsChannel;
-import MultiSkipGraph.MsController;
-import MultiSkipGraph.MsMessage;
-import MultiSkipGraph.MsNode;
+import base.Action;
+import base.Direction;
+import multiSkipGraph.MsChannel;
+import multiSkipGraph.MsController;
+import multiSkipGraph.MsMessage;
+import multiSkipGraph.MsNode;
 
 /**
  * 

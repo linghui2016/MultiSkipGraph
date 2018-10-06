@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Simo;
+package simo;
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
-import Base.Protocol;
-import Graph.GraphType;
-import MultiSkipGraph.MsController;
+import base.Protocol;
+import graph.GraphType;
+import multiSkipGraph.MsController;
 
 /**
  *
@@ -214,7 +214,7 @@ public class MultiModeFrame extends javax.swing.JDialog {
 		jLabel_graphType1.setText("Protocol type:");
 
 		jRadioButton_naive.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
-		jRadioButton_naive.setText("MultiSkipList protocol");
+    jRadioButton_naive.setText("MultiSkipGraph protocol");
 		jRadioButton_naive.addActionListener(new java.awt.event.ActionListener() {
 			@Override
 			public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -223,7 +223,7 @@ public class MultiModeFrame extends javax.swing.JDialog {
 		});
 
 		jRadioButton_alternative.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
-		jRadioButton_alternative.setText("MultiSkipList* protocol");
+    jRadioButton_alternative.setText("MultiSkipGraph* protocol");
 		jRadioButton_alternative.addActionListener(new java.awt.event.ActionListener() {
 			@Override
 			public void actionPerformed(java.awt.event.ActionEvent evt) {

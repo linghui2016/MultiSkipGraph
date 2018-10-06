@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Simo;
+package simo;
 
-import Base.Protocol;
-import Graph.GraphType;
-import MultiSkipGraph.MsController;
+import base.Protocol;
+import graph.GraphType;
+import multiSkipGraph.MsController;
 
 /**
  *

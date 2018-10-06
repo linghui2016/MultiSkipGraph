@@ -1,4 +1,4 @@
-package Base;
+package base;
 
 /**
  * It defines the support actions, which is a property of message.

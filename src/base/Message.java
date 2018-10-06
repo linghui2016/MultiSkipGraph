@@ -1,4 +1,4 @@
-package Base;
+package base;
 
 /**
  * The super class all kinds of messages. It should contains three elements: msgID, action and the delay to be sent.

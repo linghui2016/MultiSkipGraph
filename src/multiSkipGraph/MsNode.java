@@ -1,4 +1,4 @@
-package MultiSkipGraph;
+package multiSkipGraph;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -12,11 +12,11 @@ import java.util.concurrent.LinkedBlockingQueue;
 import org.graphstream.graph.Edge;
 import org.graphstream.graph.Graph;
 
-import Base.Action;
-import Base.Direction;
-import Base.MessageTask;
-import Base.Node;
-import Base.Task.TaskType;
+import base.Action;
+import base.Direction;
+import base.MessageTask;
+import base.Node;
+import base.Task.TaskType;
 
 /**
  * MultilistNode is used for MultiSkipGraph Protocol.

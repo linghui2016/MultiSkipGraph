@@ -1,10 +1,10 @@
-package Base;
+package base;
 
 import java.util.TimerTask;
 
-import MultiSkipGraph.MsChannel;
-import MultiSkipGraph.MsMessage;
-import MultiSkipGraph.MsNode;
+import multiSkipGraph.MsChannel;
+import multiSkipGraph.MsMessage;
+import multiSkipGraph.MsNode;
 
 /**
  * MessageTask is used by the sendMsg method in respective Channel. For a new kind of node. we should extend a constructor
