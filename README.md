@@ -16,7 +16,7 @@ This is a simulator implemted for evaluating and demonstrating the MultiSkipGrap
     - In this mode the simulation will be visualized: 
       - nodes on even levels are blue 
       - nodes on odd levels are red 
-      - nodes marked as unknown are gray
+      - nodes marked as unknown are gray (at the top)
     - User can select if the test data will be saved 
             in your local working repository.
     - User can select if the simulation should be filmed and
