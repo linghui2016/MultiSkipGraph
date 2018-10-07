@@ -1,6 +1,6 @@
 # MultiSkipGraph - A Self-stabilizing Overlay Network that Maintains Monotonic Searchability
 
-This is a simulator implemented for evaluating and demonstrating the MultiSkipGraph protocol and its extended version MultiSkipGraph*.
+This is a simulator implemented in Java for evaluating and demonstrating the MultiSkipGraph protocol and its extended version MultiSkipGraph*.
 
 ## Watch a demo
 - Click to see a demo of simulating a self-stabilizing overlay network with 9 nodes using the MultiSkipGraph protocol.
