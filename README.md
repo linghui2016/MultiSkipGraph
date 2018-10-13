@@ -34,7 +34,8 @@ In the visualization, nodes on even levels are blue, on odd levels are red and m
       - a batch size (terminate when the network is stabilized)
  - Click the ``Single-Test-Mode`` button, choose ``Both for comparision``, and then ``Simulate`` button to run a simulation by the default setting. 
  - You will see the simulation running first the MultiSkipGraph protocol and then the MultiSkipGraph protocol*.
- 
+ In the following, you see the convergent states for system with 16 nodes. 
+ ![](https://github.com/linghui2016/MultiSkipGraph/blob/master/movies/comparision.PNG)
 ## Contact
 Please e-mail linghui.luo@upb.de if you have any questions.  
 
