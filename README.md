@@ -3,6 +3,7 @@
 This is a simulator implemented in Java for evaluating and demonstrating the MultiSkipGraph protocol and its extended version MultiSkipGraph*.
 
 ## Watch a demo
+In the visualization, nodes on even levels are blue, on odd levels are red and marked as "unknown" are gray at the top. 
 - Click to see a demo of simulating a self-stabilizing overlay network with 9 nodes using the MultiSkipGraph protocol.
 [![multiskipgraph](https://img.youtube.com/vi/S8yd7fApSfk/0.jpg)](http://www.youtube.com/watch?v=S8yd7fApSfk)
 - Click to see a demo of simulating a self-stabilizing overlay network with 9 nodes using the MultiSkipGraph* protocol.
